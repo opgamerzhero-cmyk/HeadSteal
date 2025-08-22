@@ -1,0 +1,16 @@
+name: HeadSteal
+version: 2.0.0
+main: com.heroff.headsteal.HeadSteal
+api-version: 1.20
+commands:
+  headsteal:
+    description: Manage HeadSteal plugin
+    usage: /headsteal give <player> <mob>
+    permission: headsteal.admin
+permissions:
+  headsteal.use:
+    description: Use mob heads abilities
+    default: true
+  headsteal.admin:
+    description: Admin for HeadSteal plugin
+    default: op

@@ -1,0 +1,32 @@
+# HeadSteal Config - All Mobs
+# Drop chances and abilities can be customized here.
+
+drops:
+  ZOMBIE: 0.3
+  SKELETON: 0.3
+  CREEPER: 0.2
+  ENDERMAN: 0.15
+  BLAZE: 0.15
+  WITHER: 0.05
+  ENDER_DRAGON: 0.02
+  WARDEN: 0.01
+  COW: 0.5
+  PIG: 0.5
+  SHEEP: 0.5
+  CHICKEN: 0.5
+  HORSE: 0.3
+
+abilities:
+  ZOMBIE: "Regeneration"
+  SKELETON: "Infinite Arrows"
+  CREEPER: "Explosion Immunity"
+  ENDERMAN: "Teleport on Sneak"
+  BLAZE: "Fire Resistance"
+  WITHER: "Strength Aura"
+  ENDER_DRAGON: "Elytra Boost"
+  WARDEN: "Darkness Aura"
+  COW: "Saturation"
+  PIG: "Extra Hearts"
+  SHEEP: "Resistance"
+  CHICKEN: "Slow Falling"
+  HORSE: "Speed Boost"
